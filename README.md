@@ -39,7 +39,7 @@ Cada tarea se guarda con la siguiente estructura:
 
 ```json
 {
-    "descripcion": "Estudiar Python",
+    "descripcion": "[aqui poner la tarea]",
     "completada": false
 }
 ```
@@ -99,7 +99,3 @@ Este proyecto fue desarrollado como ejercicio para reforzar conceptos fundamenta
 * Interfaz gráfica.
 * Estadísticas de productividad.
 * Sincronización con base de datos.
-
-## Autor
-
-Desarrollado por Leonardo (Ash / Morax) como proyecto de aprendizaje y práctica en Python.
